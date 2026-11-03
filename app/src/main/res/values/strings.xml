@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daftar Postingan</string>
+    <string name="detail_post">
+    %1$s
+
+    ID Postingan: %2$d
+    ID Pengguna: %3$d
+</string>
+</resources>

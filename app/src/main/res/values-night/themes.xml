@@ -1,0 +1,6 @@
+<resources>
+    <style name="Base.Theme.DaftarPostingan" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.DaftarPostingan" parent="Base.Theme.DaftarPostingan" />
+</resources>
